@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "923013062760",
+    "firebase_url": "https://esp32v2-e8892-default-rtdb.firebaseio.com",
+    "project_id": "esp32v2-e8892",
+    "storage_bucket": "esp32v2-e8892.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923013062760:android:0cf02b236239574d871bdd",
+        "android_client_info": {
+          "package_name": "com.example.arduinohip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923013062760-b087gqbk3f0vtbr0uq896ppouq16ard7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4V-2zz1EoZ97RK2EPa84a4neoow7fP8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923013062760-b087gqbk3f0vtbr0uq896ppouq16ard7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923013062760:android:96fe3a752bcb73ec871bdd",
+        "android_client_info": {
+          "package_name": "com.example.hiparduino"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923013062760-b087gqbk3f0vtbr0uq896ppouq16ard7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4V-2zz1EoZ97RK2EPa84a4neoow7fP8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923013062760-b087gqbk3f0vtbr0uq896ppouq16ard7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923013062760:android:6b9e5b64c38abdd4871bdd",
+        "android_client_info": {
+          "package_name": "com.example.parkingapp2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923013062760-lnc0qf8g8483idfui6lkrss2tpldscdv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.parkingapp2",
+            "certificate_hash": "a425d9275dfd06268cb8876e7e1c9f215756effd"
+          }
+        },
+        {
+          "client_id": "923013062760-b087gqbk3f0vtbr0uq896ppouq16ard7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4V-2zz1EoZ97RK2EPa84a4neoow7fP8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923013062760-b087gqbk3f0vtbr0uq896ppouq16ard7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
